@@ -21,7 +21,7 @@
     </dependencyManagement>
 ```
 
-## Maven <parent>
+## Maven <parent> (Inheritance)
     The `<parent>` element enables POM inheritance. It specifies that the current project
     inherits configuration from a parent project. This allows for sharing common settings,
     dependencies, and plugins across multiple projects.
